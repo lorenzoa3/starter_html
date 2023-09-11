@@ -31,3 +31,7 @@ list {
   display: inline-block;
   margin-left: 50px;
 }
+
+nav{
+  border: 2px solid black;
+}
