@@ -31,7 +31,11 @@ list {
   display: inline-block;
   margin-left: 50px;
 }
-
+nav a{
+  background-color: black;
+  padding: 5px;
+  margin: 20px;
+}
 nav{
   border: 2px solid black;
 }
