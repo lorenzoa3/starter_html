@@ -4,9 +4,9 @@ body {
 }
 
 h1 {
-  font-family: Apple Chancery, cursive;
+  font-family: Brush Script MT, Brush Script Std, cursive;
   font-size: 30;
-  font-style: oblique;
+  font-style: italic;
   text-align: center;
 }
 
@@ -17,10 +17,10 @@ h2, h3 {
 }
 
 p {
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
-image-border {
+img {
   border: 5px solid red;
   padding: 10px;
   margin: 20px;
